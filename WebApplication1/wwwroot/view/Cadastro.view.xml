@@ -1,0 +1,157 @@
+<mvc:View
+	controllerName="sap.ui.demo.walkthrough.controller.Cadastro"
+	xmlns="sap.m"
+	xmlns:l="sap.ui.layout"
+	xmlns:f="sap.ui.layout.form"
+	xmlns:core="sap.ui.core"
+	xmlns:mvc="sap.ui.core.mvc">
+	<Page title="Cadastrar cliente" navButtonPress=".onNavBack">
+		<VBox class="sapUiSmallMargin">
+        	<App>
+    			<pages>
+					<Page>
+    					<content>
+        					<FlexBox
+          						alignItems="Start"
+          						justifyContent="Center">
+          						<items>
+            						<Image src="https://blogger.googleusercontent.com/img/a/AVvXsEgnhWSGVLeP4AK0z2WKkWBs_IiljSQ2KfBP_vohSyFRwAdPxbYW2Yqt08XxgdNgc1kBNGndNGEOMJoswE1zTP1b6WZH0OY7FGE68IdrZMW4JgPfq3tMWJO4EVD4WCFD3OO-InXaoLNQmbLDz4RM5-058jr2PvM2z9zHgd8LXCB8WeLv14Hp8LZS85rNsw" />
+          						</items>
+        					</FlexBox>
+    					</content>
+  					</Page>
+  				</pages>
+ 			 </App>
+			<f:Form id="FormChange480_12120" editable="true">
+
+				<f:FormContainer title="Informações Pessoais">
+					<f:formElements>
+						<f:FormElement label="Nome">
+							<f:fields>
+								<Input placeholder="Digite o nome" value="{cliente>/nome}"  />
+							</f:fields>
+						</f:FormElement>
+						<f:FormElement label="CPF">
+							<f:fields>
+								<MaskInput mask="999.999.999-99" placeholderSymbol="_" placeholder="Digite o CPF" value="{cliente>/cpf}"/>
+							</f:fields>
+						</f:FormElement>
+					</f:formElements>
+				</f:FormContainer>
+
+				<f:FormContainer title="Endereço">
+					<f:formElements>
+						<f:FormElement label="CEP">
+							<f:fields>
+								<SearchField  id="Cep" width="100%"   search=".buscarEndereco" value="{cliente>/cep}" />								
+							</f:fields>
+						</f:FormElement>
+                            
+						<f:FormElement label="Rua">
+							<f:fields>
+								<Input placeholder="Rua" valueLiveUpdate="true" value="{cliente>/rua}"/>
+							</f:fields>
+						</f:FormElement>
+						<f:FormElement label="Bairro/Numero">
+							<f:fields>
+								<Input placeholder="Bairro" id="Bairro" value="{cliente>/bairro}" />
+								<Input type="Number" placeholder="Numero" value="{cliente>/numero}" >
+									<layoutData>
+										<l:GridData span="XL2 L2 M2 S4" />
+									</layoutData>
+								</Input>
+							</f:fields>
+						</f:FormElement>
+							
+							<f:FormElement label="Estado">
+								<f:fields >
+									<Input placeholder="Estado" value="{cliente>/estado}"/>
+								</f:fields>
+							</f:FormElement>
+							<f:FormElement label="Cidade">
+								<f:fields >
+									<Input placeholder="Cidade" value="{cliente>/cidade}"/>
+								</f:fields>
+							</f:FormElement>
+					</f:formElements>
+				</f:FormContainer>
+
+				<f:layout>
+					<f:ResponsiveGridLayout labelSpanXL="4" labelSpanL="4" labelSpanM="12" labelSpanS="12" adjustLabelSpan="true" emptySpanXL="0" emptySpanL="0" emptySpanM="0" 
+					emptySpanS="0" columnsXL="2" columnsL="2" columnsM="1" singleContainerFullSize="false" />
+				</f:layout>
+				<f:formContainers>
+					<f:FormContainer title="Contato">
+						<f:formElements>
+							<f:FormElement label="Email">
+								<f:fields>
+									<Input placeholder='Email' value="{cliente>/email}" />
+								</f:fields>
+							</f:FormElement>
+							<f:FormElement label="Telefone">
+								<f:fields>
+									<MaskInput mask="(99)99999-9999" placeholderSymbol="_" placeholder="Telefone" value="{cliente>/telefone}"/>
+								</f:fields>
+							</f:FormElement>
+
+						</f:formElements>
+					</f:FormContainer>
+				</f:formContainers>
+			</f:Form>
+		</VBox>
+
+		<l:Grid  class="sapUiSmallMargin">
+			<Button text="Salvar" class="sapUiSmallMarginBottom" press="salvarNoBancoDeDados" width="100px" />
+		</l:Grid>
+
+		<l:Grid  class="sapUiSmallMargin">
+			<Button text="Atualizar" class="sapUiSmallMarginBottom" press="carregarTodosOsClientes" width="100px" />
+		</l:Grid>
+		
+		
+		<Table items="{
+        path : 'cliente>/',
+        sorter:{
+            path :  'id'
+            }
+            }">
+			<headerToolbar>
+				<OverflowToolbar id="otbSubheader">
+					<ToolbarSpacer/>
+					<SearchField ariaLabelledBy="text1" text="{busca>/nome}" id="maxPrice"  press="buscarCliente" liveChange="buscarCliente">
+						<layoutData>
+							<OverflowToolbarLayoutData maxWidth="300px" shrinkable="true" priority="NeverOverflow"/>
+						</layoutData>
+					</SearchField>
+
+				</OverflowToolbar>
+			</headerToolbar>
+
+
+
+			<columns>
+				<Column>
+					<Text text="Codigo" />
+				</Column>
+				<Column>
+					<Text text="Nome" />
+				</Column>
+				<Column>
+					<Text text="CPF" />
+				</Column>
+
+			</columns>
+			<items>
+				<ColumnListItem vAlign="Middle" type="Navigation" press="onPress">
+					<cells>
+						<Text text="{cliente>id}" wrapping="false" />
+						<Text text="{cliente>nome}" wrapping="false"/>
+						<Text text="{cliente>cpf}" />
+					</cells>
+				</ColumnListItem>
+			</items>
+		</Table>
+
+		<BusyDialog id="BusyDialog" />
+	</Page>
+</mvc:View>

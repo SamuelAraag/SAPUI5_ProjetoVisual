@@ -1,0 +1,243 @@
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.csproj.AssemblyReference.cache
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.AssemblyInfoInputs.cache
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.AssemblyInfo.cs
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.csproj.CoreCompileInputs.cache
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cs
+G:/Meu Drive/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Projetos do Curso/Saida de dados/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/appsettings.json
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication_CRUD.deps.json
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication_CRUD.runtimeconfig.json
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication_CRUD.runtimeconfig.dev.json
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication_CRUD.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/ref/WebApplication_CRUD.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication_CRUD.pdb
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.AssemblyInfo.cs
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/scopedcss/bundle/WebApplication_CRUD.styles.css
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/staticwebassets/WebApplication_CRUD.StaticWebAssets.Manifest.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.RazorTargetAssemblyInfo.cache
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.csproj.CopyComplete
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/ref/WebApplication_CRUD.dll
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.pdb
+/Volumes/GoogleDrive-107583264846465078461/O meu disco/Faculdade/Estácio/Analise e desenvolvimento/Primeiro_Programa/C#/Projetos/Criando API/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication_CRUD.genruntimeconfig.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.exe
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.deps.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.runtimeconfig.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.runtimeconfig.dev.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication_CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.csproj.AssemblyReference.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.AssemblyInfoInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.AssemblyInfo.cs
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cs
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication_CRUD.styles.css
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication_CRUD.StaticWebAssets.Manifest.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.RazorTargetAssemblyInfo.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.csproj.CopyComplete
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication_CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.genruntimeconfig.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.exe
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.deps.json
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.runtimeconfig.json
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.runtimeconfig.dev.json
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication_CRUD.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication_CRUD.pdb
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.AssemblyInfo.cs
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication_CRUD.styles.css
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication_CRUD.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.csproj.CopyComplete
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication_CRUD.dll
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.pdb
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.genruntimeconfig.cache
+\\Mac\Home\Desktop\API\Criando API\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication_CRUD.csproj.AssemblyReference.cache
